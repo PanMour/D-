@@ -7,10 +7,12 @@ caption: 'Το OXO είναι το πρώτο multiplayer παιχνίδι πο�
 license_url: '[https://www.uvlist.net/game-159478-OXO](https://en.wikipedia.org/wiki/File:OXO_emulated_screenshot.png)'
 license_text: from Wikipedia
 categories:
-  - archetypes 
-  - multiplayer  
-  - αλληλεπίδραση ανθρώπου με A.I.
+  - archetypes
+  - multiplayer
+  - Αλληλεπίδραση ανθρώπου με το AI
 tags:
   - video games
   - Mutliplayer
+  - Αλληλεπίδραση ανθρώπου με το AI
+  - oxo
 ---
