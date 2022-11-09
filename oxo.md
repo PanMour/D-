@@ -11,7 +11,6 @@ categories:
   - multiplayer
   - Αλληλεπίδραση ανθρώπου με το AI
 tags:
-  - video games
   - Mutliplayer
   - Αλληλεπίδραση ανθρώπου με το AI
   - oxo
