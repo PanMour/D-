@@ -9,8 +9,10 @@ license_text: from Wikipedia
 categories:
   - archetypes 
   - console 
-  - αλληλεπίδραση ανθρώπου-υπολογιστή
 tags:
   - microsoft
+  - xbox
+  - Αλληλεπίδραση ανθρώπων-υπολογιστών
+  - Mutliplayer
   - xbox
 ---
