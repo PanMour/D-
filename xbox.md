@@ -12,4 +12,5 @@ categories:
   - αλληλεπίδραση ανθρώπου-υπολογιστή
 tags:
   - microsoft
+  - xbox
 ---
