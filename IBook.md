@@ -8,8 +8,9 @@ license_url: 'https://en.wikipedia.org/wiki/IBook'
 license_text: Wikipedia
 categories:
   - IBook
-  - Τεχνολογία-της-Εκπαίδευσης
+  - Διαδραστικότητα-στην-μάθηση
   - learning
+  - apple
 tags:
   - ΙΒοοκ
   - apple
@@ -17,5 +18,5 @@ tags:
   - personal
   - learning
   - prototyping
-  - Τεχνολογία-της-Εκπαίδευσης
+  - Διαδραστικότητα-στην-μάθηση
 ---
