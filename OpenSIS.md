@@ -10,10 +10,8 @@ categories:
   - OpenSIS
   - learning
   - Συστήματα-επεξεργασίας-πληροφοριών
-  - 
 tags:
   - OpenSIS
   - learning
   - Συστήματα-επεξεργασίας-πληροφοριών
-  - 
 ---
