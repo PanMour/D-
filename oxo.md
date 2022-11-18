@@ -10,8 +10,10 @@ categories:
   - archetypes
   - multiplayer
   - Αλληλεπίδραση ανθρώπου με το AI
+  - videogames
 tags:
   - Mutliplayer
   - Αλληλεπίδραση ανθρώπου με το AI
   - oxo
+  - videogames
 ---
