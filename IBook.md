@@ -8,14 +8,13 @@ license_url: 'https://en.wikipedia.org/wiki/IBook'
 license_text: Wikipedia
 categories:
   - IBook
-  - Τεχνολογία της Εκπαίδευσης
+  - Τεχνολογία-της-Εκπαίδευσης
   - learning
-  - 
 tags:
   - apple
   - mobile
   - personal
   - learning
   - prototyping
-  - Τεχνολογία της Εκπαίδευσης
+  - Τεχνολογία-της-Εκπαίδευσης
 ---
