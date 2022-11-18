@@ -11,6 +11,7 @@ categories:
   - Τεχνολογία-της-Εκπαίδευσης
   - learning
 tags:
+  - ΙΒοοκ
   - apple
   - mobile
   - personal
