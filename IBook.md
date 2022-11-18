@@ -7,10 +7,9 @@ caption: 'To ΙΒοοκ κατασκευάστηκε από την Apple. Πάρ
 license_url: 'https://en.wikipedia.org/wiki/IBook'
 license_text: Wikipedia
 categories:
-  - IBook
-  - Διαδραστικότητα-στην-μάθηση
-  - learning
-  - apple
+  - Εργαλεία
+  - Τεχνολογία
+  - Μοντέλα
 tags:
   - ΙΒοοκ
   - apple
