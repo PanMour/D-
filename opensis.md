@@ -11,7 +11,7 @@ categories:
   - learning
   - Συστήματα-επεξεργασίας-πληροφοριών
 tags:
-  - OpenSIS
+  - opensis
   - learning
   - Συστήματα-επεξεργασίας-πληροφοριών
 ---
