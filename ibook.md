@@ -10,11 +10,6 @@ categories:
   - Εργαλεία
   - Τεχνολογία
   - Μοντέλα
-  - apple
-  - mobile
-  - personal
-  - learning
-  - prototyping
 tags:
   - ibοοκ
   - Διαδραστικότητα-στην-μάθηση
