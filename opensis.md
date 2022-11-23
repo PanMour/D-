@@ -8,8 +8,8 @@ license_url: 'https://en.wikipedia.org/wiki/OpenSIS'
 license_text: Wikipedia
 categories:
   - OpenSIS
-  - learning
   - Συστήματα-επεξεργασίας-πληροφοριών
+  - Εκπαίδευση
 tags:
   - opensis
   - Συστήματα-επεξεργασίας-πληροφοριών
