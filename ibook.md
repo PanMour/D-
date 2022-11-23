@@ -11,7 +11,7 @@ categories:
   - Τεχνολογία
   - Μοντέλα
 tags:
-  - ΙΒοοκ
+  - ibοοκ
   - apple
   - mobile
   - personal
